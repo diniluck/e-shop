@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771803744757",
+    "project_id": "eshop-705aa",
+    "storage_bucket": "eshop-705aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771803744757:android:f7c01af221db7fc60eb8bc",
+        "android_client_info": {
+          "package_name": "com.diniluck.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771803744757-nr4kq9a8c8178rb46r5ro81j05i3ch1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdTNRsiIFF1XN80kL43r9TkqXnyoCGSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771803744757-nr4kq9a8c8178rb46r5ro81j05i3ch1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
